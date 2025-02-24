@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1500"/>
+
 - 👋 Hi, I’m Steve  
 - 👨‍💻 I’m passionate about **Frontend Development** and **Infrastructure Management**  
 - 🌱 I’m constantly improving my skills in **Angular**, **Java**, **System Administration**, and exploring **DevOps** practices  
