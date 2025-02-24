@@ -1,3 +1,15 @@
+<div style="display: flex; align-items: center;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 200px; height: 200px; object-fit: cover; margin-right: 30px;"/>
+    <div>
+        <p>👋 Hi, I’m <strong>Steve</strong></p>
+        <p>👨‍💻 I’m passionate about <strong>Frontend Development</strong> and <strong>Infrastructure Management</strong></p>
+        <p>🌱 I’m constantly improving my skills in <strong>Angular</strong>, <strong>Java</strong>, <strong>System Administration</strong>, and exploring <strong>DevOps</strong> practices</p>
+        <p>⚙️ I’m interested in building <strong>scalable web applications</strong> and optimizing <strong>system performance</strong></p>
+        <p>💞️ I’m looking to collaborate on innovative projects in <strong>web development</strong> and <strong>system automation</strong></p>
+        <p>📫 Feel free to reach out if you're working on exciting projects or want to discuss technology!</p>
+    </div>
+</div>
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="left" style="margin-right: 20px;"/>
 
 👋  Hi, I’m **Steve**  
