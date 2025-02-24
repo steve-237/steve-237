@@ -1,12 +1,12 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="left" style="margin-right: 20px;"/>
 
 &nbsp; 👋  Hi, I’m **Steve**  
-👨‍💻  I’m passionate about **Frontend Development** and **Infrastructure Management**  
-🌱  I’m constantly improving my skills in **Angular**, **Java**, **System Administration**, and exploring **DevOps** practices  
-⚙️  I’m interested in building **scalable web applications** and optimizing **system performance**  
-💞️  I’m looking to collaborate on innovative projects in **web development** and **system automation**  
-📫  Feel free to reach out if you're working on exciting projects or want to discuss technology!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+&nbsp; 👨‍💻  I’m passionate about **Frontend Development** and **Infrastructure Management**  
+&nbsp; 🌱  I’m constantly improving my skills in **Angular**, **Java**, **System Administration**, and exploring **DevOps** practices  
+&nbsp; ⚙️  I’m interested in building **scalable web applications** and optimizing **system performance**  
+&nbsp; 💞️  I’m looking to collaborate on innovative projects in **web development** and **system automation**  
+&nbsp; 📫  Feel free to reach out if you're working on exciting projects or want to discuss technology!  
+&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=steve-237&color=blue)
 
