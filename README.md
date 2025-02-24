@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="left" style="margin-right: 20px;"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="left" style="margin-right: 20px;"/>
 
 &nbsp; 👋  Hi, I’m **Steve**  
 &nbsp; 👨‍💻  I’m passionate about **Frontend Development** and **Infrastructure Management**  
