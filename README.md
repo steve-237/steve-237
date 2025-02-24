@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="left"/>
-
 &nbsp; 👋  Hi, I’m **Steve**  
 &nbsp; 👨‍💻  I’m passionate about **Frontend Development** and **Infrastructure Management**  
 &nbsp; 🌱  I’m constantly improving my skills in **Angular**, **Java**, **System Administration**, and exploring &nbsp; **DevOps** practices  
@@ -15,11 +13,8 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🌱 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=steve-237&theme=react-dark)
-
 ## 📊 GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=steve-237&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steve-237&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steve-237&layout=compact&theme=radical)
 
 ## 🔗 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
