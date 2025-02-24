@@ -2,7 +2,7 @@
 
 &nbsp; 👋  Hi, I’m **Steve**  
 &nbsp; 👨‍💻  I’m passionate about **Frontend Development** and **Infrastructure Management**  
-&nbsp; 🌱  I’m constantly improving my skills in **Angular**, **Java**, **System Administration**, and exploring **DevOps** practices  
+&nbsp; 🌱  I’m constantly improving my skills in **Angular**, **Java**, **System Administration**, and exploring &nbsp; **DevOps** practices  
 &nbsp; ⚙️  I’m interested in building **scalable web applications** and optimizing **system performance**  
 &nbsp; 💞️  I’m looking to collaborate on innovative projects in **web development** and **system automation**  
 &nbsp; 📫  Feel free to reach out if you're working on exciting projects or want to discuss technology!  
