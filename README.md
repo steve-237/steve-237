@@ -5,6 +5,19 @@
 - 💞️ I’m looking to collaborate on innovative projects in **web development** and **system automation**  
 - 📫 Feel free to reach out if you're working on exciting projects or want to discuss technology!
 
+
+## 🛠 Technologies I Work With:
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📊 GitHub Stats:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=steve-237&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steve-237&layout=compact&theme=radical)
+
+## 🔗 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 <!---
 steve-237/steve-237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
