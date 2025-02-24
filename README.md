@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 200px; height: 200px; object-fit: cover; margin-right: 30px;"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 300px; height: 200px; object-fit: cover; margin-right: 20px;"/>
     <div>
         <p>👋 Hi, I’m <strong>Steve</strong></p>
         <p>👨‍💻 I’m passionate about <strong>Frontend Development</strong> and <strong>Infrastructure Management</strong></p>
