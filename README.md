@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on innovative projects in **web development** and **system automation**  
 - 📫 Feel free to reach out if you're working on exciting projects or want to discuss technology!
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?usernamesteve-237&color=blue)
 
 ## 🛠 Technologies I Work With:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
