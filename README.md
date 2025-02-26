@@ -4,7 +4,7 @@
 &nbsp; ⚙️  I’m interested in building **scalable web applications** and optimizing **system performance**  
 &nbsp; 💞️  I’m looking to collaborate on innovative projects in **web development** and **system automation**  
 &nbsp; 📫  Feel free to reach out if you're working on exciting projects or want to discuss technology!  
-&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=steve-237&color=blue)
 
